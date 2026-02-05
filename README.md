@@ -24,7 +24,7 @@ You need Python 3 installed along with the following libraries:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/orca-socme-extractor.git](https://github.com/YOUR_USERNAME/orca-socme-extractor.git)
+   git clone https://github.com/pedro-lara-chem/ORCA_SOCME_Extractor.git
    cd orca-socme-extractor
 ```
 2. Install the required dependencies:
