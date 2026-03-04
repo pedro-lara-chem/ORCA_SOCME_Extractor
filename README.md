@@ -25,7 +25,7 @@ You need Python 3 installed along with the following libraries:
 1. Clone this repository:
    ```bash
    git clone https://github.com/pedro-lara-chem/ORCA_SOCME_Extractor.git
-   cd orca-socme-extractor
+   cd ORCA_SOCME_Extractor
 ```
 2. Install the required dependencies:
   ```bash
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 1. Place your ORCA output file (e.g., calculation.out) in the same directory as the script (or know the path to it).
 2. Run the script:
    ```bash
-   python extract_SOCME.py
+   python SOCME_ORCA_extract.py
    ```
 3. Follow the interactive prompts:
    * File Name: Enter the name ofyour ORCA output file.
