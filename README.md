@@ -23,14 +23,14 @@ You need Python 3 installed along with the following libraries:
 ## Installation
 
 1. Clone this repository:
-```bash
-   git clone https://github.com/pedro-lara-chem/ORCA_SOCME_Extractor.git
-   cd ORCA_SOCME_Extractor
-```
+  ```bash
+     git clone https://github.com/pedro-lara-chem/ORCA_SOCME_Extractor.git
+     cd ORCA_SOCME_Extractor
+  ```
 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+     pip install -r requirements.txt
+  ```
 ## Usage
 
 1. Place your ORCA output file (e.g., calculation.out) in the same directory as the script (or know the path to it).
